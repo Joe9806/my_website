@@ -10,7 +10,7 @@ params:
     subtitle: |-
       # A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       # AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Yuzhou Li. Welcome to my space!
+    title: Welcome to Joe's Space!
   blog: {}
   contact:
     address: 
@@ -108,12 +108,9 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "I did my undergart at University of Toronto, but the cold weather drives me to pursue a master degree
-    in a warmer place like London.\n    
-    I enjoy traveling, as traveling gives me a chance to communicate cross culturally, 
-    expand my knowledge about a new culture, \n and make me appreciate diversity, 
-    which is something that makes our world fascinating. \n
-    I have a stomach that fits Cantonese food. That's why I want to kickstart my career in HK! \n
-    If you have anything in common, free feel to reach out to me!"
+    subtitle: "I did my undergart at University of Toronto, but the cold weather drives me to pursue a master degree in a warmer place like London.      
+    \n  I enjoy traveling, as traveling gives me a chance to communicate cross culturally and expand my knowledge about a new culture.
+    \n  I have a stomach that fits Cantonese food. That's why I want to kickstart my career in HK! 
+    \n  If you have anything in common, free feel to reach out to me!"
     title: Fun Fact about Me
     url: blogs
