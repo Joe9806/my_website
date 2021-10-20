@@ -8,8 +8,8 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      # A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      # AND RELEASED UNDER THE CREATIVE COMMONS.
+      CHINA - Canada - UK
+      NEVER STOP EXPLORING.
     title: Welcome to Joe's Space!
   blog: {}
   contact:
@@ -86,9 +86,9 @@ params:
         title: About Me
         url: blogs/Yuzhou_Li
       - image: UofT.jpg
-        subtitle: My University Life
+        subtitle: Interest in My University? Take a Look
         title: Alma Mater
-        url: https://www.utoronto.ca/
+        url: https://www.youtube.com/watch?v=fkC8UuOBRaw
       - image: Brexit.png
         subtitle: What Factors Affect the Result of Brexit Vote
         title: Brexit vote Analysis
