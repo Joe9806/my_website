@@ -88,7 +88,7 @@ params:
       - image: UofT.jpg
         subtitle: Interest in My University? Take a Look
         title: Alma Mater
-        url: https://www.youtube.com/watch?v=fkC8UuOBRaw
+        url: https://www.youtube.com/watch?v=eqnfjRb9Li8
       - image: Brexit.png
         subtitle: What Factors Affect the Result of Brexit Vote
         title: Brexit vote Analysis
@@ -98,7 +98,7 @@ params:
         title: Portfolio Management
         url: blogs/RPM.pdf
       - image: Resume.jpg
-        subtitle: Academic & Profesioanl Experience
+        subtitle: Academic & Professional Experience
         title: Resume
         url: blogs/Yuzhou Li_CV.pdf
       # - image: resume.jpg
@@ -109,7 +109,7 @@ params:
     buttonText: Get Started
     enable: yes
     subtitle: "
-    I did my undergart at University of Toronto, but the cold weather drives me to pursue a master degree in a warmer place like London.      
+    I did my undergrat at University of Toronto, but the cold weather drives me to pursue a master degree in a warmer place like London.      
     \n  I enjoy traveling, as traveling gives me a chance to communicate cross culturally and expand my knowledge about a new culture.
     \n  I have a stomach that fits Cantonese food. That's why I want to kickstart my career in HK! 
     \n  If you have anything in common, free feel to reach out to me!     "
