@@ -69,8 +69,8 @@ params:
     links:
       - name: Home
         url: '#'
-      - name: Blogs
-        url: blogs
+      # - name: Blogs
+      #   url: blogs
       # - name: Generic Blog
       #   url: blogs/ipsum
       # - name: Elements
@@ -84,7 +84,7 @@ params:
       - image: Yuzhou.jpg
         subtitle: Get to Know Me Better!
         title: About Me
-        url: blogs/aliquam
+        url: blogs/Yuzhou_Li
       - image: UofT.jpg
         subtitle: My University Life
         title: Alma Mater
