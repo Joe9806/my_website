@@ -81,39 +81,39 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Biography
+      - image: Professional.jpg
+        subtitle: Get to Know Me Better!
         title: About Me
         url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+      - image: UofT.jpg
+        subtitle: My University Life
+        title: Alma Mater
+        url: https://www.utoronto.ca/
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
         url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+      - image: Stock.jpg
+        subtitle: How My Group use Large-Cap Investing and GARP Startegy to Manage Fund
+        title: Portfolio Management
+        url: blogs/RPM.pdf
+      - image: Resume.jpg
+        subtitle: Academic & Profesioanl Experience
+        title: Resume
+        url: blogs/Yuzhou Li_CV.pdf
+      # - image: resume.jpg
+      #   subtitle: Academic & Profesioanl Experience
+      #   title: Resume
+      #   url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
     subtitle: "I did my undergart at University of Toronto, but the cold weather drives me to pursue a master degree
     in a warmer place like London.\n    
     I enjoy traveling, as traveling gives me a chance to communicate cross culturally, 
-    expand my knowledge about a new culture, and make me appreciate diversity, 
-    which is something that makes our world fascinating. 
-    I have a stomach that fits Cantonese food. 
-    If you like tasting and cooking Cantonese food as well, free feel to reach out to me!"
-    title: Interesting Fact about Me
+    expand my knowledge about a new culture, \n and make me appreciate diversity, 
+    which is something that makes our world fascinating. \n
+    I have a stomach that fits Cantonese food. That's why I want to kickstart my career in HK! \n
+    If you have anything in common, free feel to reach out to me!"
+    title: Fun Fact about Me
     url: blogs
