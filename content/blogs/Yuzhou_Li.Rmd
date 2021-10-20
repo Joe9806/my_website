@@ -5,7 +5,7 @@ description: Yuzhou's intro
 draft: no
 image: spices.jpg
 keywords: ''
-slug: Joe_Intro
+slug: Yuzhou_Li
 categories:
 - ''
 - ''

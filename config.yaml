@@ -89,10 +89,10 @@ params:
         subtitle: My University Life
         title: Alma Mater
         url: https://www.utoronto.ca/
-      - image: Brexit.jpg
+      - image: Brexit.png
         subtitle: What Factors Affect the Result of Brexit Vote
         title: Brexit vote Analysis
-        url: blogs/brexit_vote_analysis
+        url: blogs/Brexit
       - image: Stock.jpg
         subtitle: How My Group use Large-Cap Investing and GARP Startegy to Manage Fund
         title: Portfolio Management
@@ -102,7 +102,7 @@ params:
         title: Resume
         url: blogs/Yuzhou Li_CV.pdf
       # - image: resume.jpg
-      #   subtitle: Academic & Profesioanl Experience
+      #   subtitle: Academic & Professioanl Experience
       #   title: Resume
       #   url: blogs/ipsum
   two:
