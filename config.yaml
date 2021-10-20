@@ -81,7 +81,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: Professional.jpg
+      - image: Yuzhou.jpg
         subtitle: Get to Know Me Better!
         title: About Me
         url: blogs/aliquam
@@ -89,10 +89,10 @@ params:
         subtitle: My University Life
         title: Alma Mater
         url: https://www.utoronto.ca/
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+      - image: Brexit.jpg
+        subtitle: What Factors Affect the Result of Brexit Vote
+        title: Brexit vote Analysis
+        url: blogs/brexit_vote_analysis
       - image: Stock.jpg
         subtitle: How My Group use Large-Cap Investing and GARP Startegy to Manage Fund
         title: Portfolio Management
@@ -108,9 +108,10 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "I did my undergart at University of Toronto, but the cold weather drives me to pursue a master degree in a warmer place like London.      
+    subtitle: "
+    I did my undergart at University of Toronto, but the cold weather drives me to pursue a master degree in a warmer place like London.      
     \n  I enjoy traveling, as traveling gives me a chance to communicate cross culturally and expand my knowledge about a new culture.
     \n  I have a stomach that fits Cantonese food. That's why I want to kickstart my career in HK! 
-    \n  If you have anything in common, free feel to reach out to me!"
+    \n  If you have anything in common, free feel to reach out to me!     "
     title: Fun Fact about Me
     url: blogs
